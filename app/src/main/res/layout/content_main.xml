@@ -22,8 +22,8 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="107dp"
-        android:layout_marginBottom="108dp"
+        android:layout_marginStart="212dp"
+        android:layout_marginBottom="96dp"
         android:text="Button1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
